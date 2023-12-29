@@ -56,3 +56,7 @@ dkms.conf
 *.rar
 *.7z
 *.tar*
+
+# Custom
+
+release/
